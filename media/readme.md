@@ -1,1 +1,1 @@
-1
+* toy_exam.jpg is Figure 1.
